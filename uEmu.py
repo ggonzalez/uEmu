@@ -5,6 +5,8 @@
 #  Created by Alexander Hude on 26/07/17.
 #  Copyright (c) 2017 Alexander Hude. All rights reserved.
 #
+import sys
+sys.path.append("/opt/local/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages")
 
 import pickle
 import threading
